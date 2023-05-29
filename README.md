@@ -1,4 +1,4 @@
-# hifini自动签到
+# hifini自动签到2222
 使用Github Actions功能实现 [hifini](https://www.hifini.com/) 网站自动签到功能。1
 
 ## 使用
